@@ -1,2 +1,2 @@
 # trendtrader
-Python implementation of HU trend following strategies
+A collection of trend following strategies implemented with Python and backtrader.
